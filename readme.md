@@ -31,6 +31,10 @@ This script scans the google chrome database and gets the password
 git clone https://github.com/favoursyre/chrome-db.git && cd chrome-db
 ```
 
+```shell
+pip install pycryptodome
+```
+
 ## Usage
 
 Instantiating the class
