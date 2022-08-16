@@ -47,5 +47,5 @@ scan = ChromeDatabase(attacker, target).main()
 ## Run
 
 ```shell
-python camouflager.py
+python chrome_database.py
 ```
